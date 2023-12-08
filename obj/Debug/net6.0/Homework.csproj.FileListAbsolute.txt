@@ -1,0 +1,15 @@
+/Users/safiyevelnur/Desktop/Homework/bin/Debug/net6.0/Homework
+/Users/safiyevelnur/Desktop/Homework/bin/Debug/net6.0/Homework.deps.json
+/Users/safiyevelnur/Desktop/Homework/bin/Debug/net6.0/Homework.runtimeconfig.json
+/Users/safiyevelnur/Desktop/Homework/bin/Debug/net6.0/Homework.dll
+/Users/safiyevelnur/Desktop/Homework/bin/Debug/net6.0/Homework.pdb
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.csproj.AssemblyReference.cache
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.AssemblyInfoInputs.cache
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.AssemblyInfo.cs
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.csproj.CoreCompileInputs.cache
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.dll
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/refint/Homework.dll
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.pdb
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/Homework.genruntimeconfig.cache
+/Users/safiyevelnur/Desktop/Homework/obj/Debug/net6.0/ref/Homework.dll

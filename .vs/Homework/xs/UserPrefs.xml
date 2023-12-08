@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{0B333C2B-63BC-4163-80D2-7AA72CAA2E12}|Default">
+  <MonoDevelop.Ide.ItemProperties.Homework PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DelegatePredicate.cs">
+    <Files>
+      <File FileName="Program.cs" Line="6" Column="32" />
+      <File FileName="DelegatePredicate.cs" Line="21" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework" expanded="True">
+            <Node name="Homework">
+              <Node name="DelegatePredicate.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
